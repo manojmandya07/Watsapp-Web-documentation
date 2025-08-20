@@ -88,3 +88,5 @@ A big thank you goes to the following people/groups:
 ## License
 This template is served under the MIT license.  
 Read the [LICENSE] file for more info.
+
+## New Section
