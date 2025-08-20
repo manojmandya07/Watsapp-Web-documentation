@@ -90,3 +90,5 @@ This template is served under the MIT license.
 Read the [LICENSE] file for more info.
 
 ## New Section
+
+This is the new section
